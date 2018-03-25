@@ -1,5 +1,5 @@
 # sbt-layout-project
-Initial SBT project configuration for Scala 2.12.5. (Requires JDK 8)
+Initial SBT project configuration for Scala __2.12.5__. (Requires JDK 8 but is better using the latest JDK version (10))
 
 You can verify other Scala versions in branches.
 
