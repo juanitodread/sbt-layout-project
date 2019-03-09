@@ -5,6 +5,5 @@ You can verify other Scala versions in branches.
 
 ## How to use it
 1. Clone the repo according your Scala version.
-2. Rename the repo directory **sbt-layout-project** to your desired repo name
-3. Run init.sh ```$ sh init.sh```
+2. Run init.sh ```$ sh init.sh <your-repo-name>```
 
