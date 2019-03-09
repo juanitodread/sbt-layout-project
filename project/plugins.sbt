@@ -1,5 +1,5 @@
 // Scalariform
-addSbtPlugin("org.scalariform" % "sbt-scalariform" % "1.7.1")
+addSbtPlugin("org.scalariform" % "sbt-scalariform" % "1.6.0")
 
 // EclipseSBT
-addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "5.2.4")
+addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "5.1.0")
