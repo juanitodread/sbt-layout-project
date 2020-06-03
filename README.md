@@ -4,8 +4,9 @@ Initial SBT project configuration for Scala projects.
 
 It includes the following plugins:
 * Scalariform
-* Eclipse
 
+And the following dependencies:
+* Scalatest
 
 Every branch in this repo supports a specific Scala version:
 
