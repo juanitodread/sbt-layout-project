@@ -2,10 +2,7 @@
 Initial SBT project configuration for Scala projects.
 
 
-It includes the following plugins:
-* Scalariform
-
-And the following dependencies:
+It includes the following dependencies:
 * Scalatest
 
 Every branch in this repo supports a specific Scala version:
@@ -15,6 +12,7 @@ Every branch in this repo supports a specific Scala version:
 | Scala 2.11.8 | JDK 6 | [scala/2.11.8](https://github.com/juanitodread/sbt-layout-project/tree/scala/2.11.8) |
 | Scala 2.11.12 | JDK 6 | [scala/2.11.12](https://github.com/juanitodread/sbt-layout-project/tree/scala/2.11.12) |
 | Scala 2.12.x | JDK 8+ | [scala/2.12.x](https://github.com/juanitodread/sbt-layout-project/tree/scala/2.12.x) |
+| Scala 3.2.x | JDK 8+ | [scala/3.2.x](https://github.com/juanitodread/sbt-layout-project/tree/scala/3.2.0) |
 
 
 __SBT__ is updated to the last compatible version of Scala.
